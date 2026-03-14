@@ -5,7 +5,9 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset to explor
 
 # Tools Used
 Power BI Desktop
+
 DAX (Data Analysis Expressions)
+
 Netflix Titles Dataset (Kaggle)
 
 # Description
@@ -13,7 +15,9 @@ This project focuses on uncovering Netflix's content distribution and acquisitio
 
 # Files Included
 netflix_analysis.pbix – Power BI project file
+
 netflix_titles.csv – Dataset used
+
 dashboard.png – Final visualization output
 
 # Result
